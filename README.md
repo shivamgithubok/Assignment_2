@@ -16,6 +16,7 @@ This project builds a **searchable knowledge base** using **FAISS (Facebook AI S
 │── build_faiss.py      # Script to create the FAISS index
 │── search_faiss.py     # Script to test and query FAISS
 │── faiss_index.bin     # Saved FAISS index
+|----pythonquestion-answer-system  
 │── documents.npy       # Saved document texts
 │── README.md           # Project documentation
 ```
